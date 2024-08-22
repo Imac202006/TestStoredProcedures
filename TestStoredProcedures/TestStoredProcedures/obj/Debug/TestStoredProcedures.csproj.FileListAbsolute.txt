@@ -1,0 +1,10 @@
+C:\Users\shybo\Documents\Test Project\TestStoredProcedures\TestStoredProcedures\bin\Debug\TestStoredProcedures.exe.config
+C:\Users\shybo\Documents\Test Project\TestStoredProcedures\TestStoredProcedures\bin\Debug\TestStoredProcedures.exe
+C:\Users\shybo\Documents\Test Project\TestStoredProcedures\TestStoredProcedures\bin\Debug\TestStoredProcedures.pdb
+C:\Users\shybo\Documents\Test Project\TestStoredProcedures\TestStoredProcedures\obj\Debug\TestStoredProcedures.csproj.AssemblyReference.cache
+C:\Users\shybo\Documents\Test Project\TestStoredProcedures\TestStoredProcedures\obj\Debug\TestStoredProcedures.MainForm.resources
+C:\Users\shybo\Documents\Test Project\TestStoredProcedures\TestStoredProcedures\obj\Debug\TestStoredProcedures.Properties.Resources.resources
+C:\Users\shybo\Documents\Test Project\TestStoredProcedures\TestStoredProcedures\obj\Debug\TestStoredProcedures.csproj.GenerateResource.cache
+C:\Users\shybo\Documents\Test Project\TestStoredProcedures\TestStoredProcedures\obj\Debug\TestStoredProcedures.csproj.CoreCompileInputs.cache
+C:\Users\shybo\Documents\Test Project\TestStoredProcedures\TestStoredProcedures\obj\Debug\TestStoredProcedures.exe
+C:\Users\shybo\Documents\Test Project\TestStoredProcedures\TestStoredProcedures\obj\Debug\TestStoredProcedures.pdb
